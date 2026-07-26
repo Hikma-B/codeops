@@ -1,0 +1,4 @@
+Today i learned:
+-terminal
+-git
+-github
