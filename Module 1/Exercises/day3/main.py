@@ -1,6 +1,6 @@
 # main.py
 
-from utils import add_tax
+from day3.utils import add_tax
 
 price = float(input("Enter the product price: "))
 
